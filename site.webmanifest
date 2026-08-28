@@ -1,0 +1,16 @@
+{
+  "name": "JOBLINKD",
+  "short_name": "JOBLINKD",
+  "description": "Get qualified, then get hired.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F7F6F2",
+  "theme_color": "#FF2D7A",
+  "icons": [
+    {
+      "src": "/og.png",
+      "sizes": "1200x630",
+      "type": "image/png"
+    }
+  ]
+}

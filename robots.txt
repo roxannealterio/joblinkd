@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /admin.html
+Disallow: /hire.html
+Disallow: /unsubscribe.html
+
+Sitemap: https://joblinkd.com.au/sitemap.xml
